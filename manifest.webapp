@@ -1,0 +1,20 @@
+﻿{
+	"name": "Alien Pet",
+	"description": "Virtual Alien Pet",
+	"version": "1.0.0.0",
+	"launch_path": "/index.html",
+	"orientation": ["landscape"],
+	"icons": {
+		"60": "/icon60.png",
+		"90": "/icon90.png",
+		"128": "/icon128.png"
+	},
+	"developer": {
+		"name": "Felipe e Marcos",
+		"url": ""
+	},
+	"default_locale": "en",
+	"permissions": {
+	},
+	"fullscreen": "true"
+}
